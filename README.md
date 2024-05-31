@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @manezinis
+- 👀 I’m interested in crafting solutions
+- ⚡ Fun fact: Angular aficionado
